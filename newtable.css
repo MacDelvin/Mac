@@ -1,0 +1,21 @@
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 100px;
+    background-color: darkkhaki;
+
+
+}
+th{
+    background-color: #2a6767;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+
+}
+caption{
+    font-size: 30px;
+
+}

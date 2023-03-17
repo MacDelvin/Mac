@@ -1,0 +1,22 @@
+body{
+    background-image: url("images/47-ronin-poster-warrior.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background-color: #52503a;
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+    padding: 78px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 60px;
+}
+p{
+    color: #1d1508;
+    background-color: aliceblue;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 60px;
+}

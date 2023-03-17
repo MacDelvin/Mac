@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+
+}
+.form{
+   max-width: 400px;
+    margin: 20px auto;
+padding: 16px;
+
+}
+
+h1{
+    background-color: darkkhaki;
+    color: palegoldenrod;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: 300;
+}
+.form input[type= "text" ],
+.form input[type= "email" ],
+.form textarea{
+    box-sizing: border-box;
+    outline: none;
+margin-bottom: 4%;
+    width: 100%;
+    border: 1px solid black;
+    padding: 3%;
+    color: dimgray;
+}
+.form input[type="submit"]{
+    box-sizing: border-box;
+width: 100%;
+    padding: 3%;
+    background-color: gray;
+    border-bottom: 2px solid black;
+    color: #52503a;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+

@@ -1,0 +1,17 @@
+body{
+    background-image: url("images/hero1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover      ;
+
+
+}
+h1,p{
+    color: #1d1508;
+    background-color: #38705e;
+    font-size: 20px;
+    font-style: initial;
+}
+div1,h1.heading1,p.heading1{
+    color: #1d1508;
+    background-color: #52503a;
+}

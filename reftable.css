@@ -1,0 +1,35 @@
+body{
+    background-color: #52503a;
+
+}
+.container{
+    max-width: 400px;
+    margin: 10% auto;
+    padding: 17px;
+
+}
+.banana{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin: 20px;
+    min-width: 400px;
+    box-shadow: 0 0 40px red;
+    border-collapse: collapse;
+}
+.banana thead{
+    background-color: #2f1542;
+    color: #f1e00e;
+    text-align: left;
+}
+.banana th,td{
+    padding: 12px 15px;
+}
+
+.banana tbody,tr{
+    border-bottom: 1px solid red;
+}
+.banana tbody tr.onion{
+    font-weight: bold;
+    color: #1d1508;
+    background-color: #38705e;
+}
